@@ -1,0 +1,6 @@
+{
+  "name": "TVS VMS Safety Portal",
+  "description": "Comprehensive real-time safety reporting, audits, interactive training dashboard, and AI-powered voice observation logs for industrial environments.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
